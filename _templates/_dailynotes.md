@@ -9,3 +9,7 @@
 
 ## Reflection
 {How did today go?}
+
+
+---
+Tags: [[Daily Notes]]

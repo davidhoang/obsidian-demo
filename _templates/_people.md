@@ -3,4 +3,5 @@
 
 ## About 
 
-#people
+---
+Tags: [[People]]
